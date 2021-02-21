@@ -1,0 +1,27 @@
+
+@font-face { 
+    font-family: 'Effra';
+    src: url('./fontes/Efrra/Effra_Std_Rg.ttf');
+    
+ }
+
+ @font-face { 
+    font-family: 'EffraMedium';
+    src: url('./fontes/Efrra/Effra_Std_Md.ttf');
+    
+ }
+
+* {
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Effra';
+}
+body, html{
+    margin: 0px;
+    padding: 0px;
+   /* min-height: calc(100vh - 130px) !important;*/
+    max-width: 100%;
+    overflow-x: hidden;
+    font-family: Trispace;
+    
+}
