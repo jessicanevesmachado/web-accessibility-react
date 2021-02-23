@@ -25,7 +25,7 @@ function FooterComponents() {
             </StyledFooter.Link>
              
             <center>
-                <StyledFooter.imgAnfora  src={theme.icones.anforaFooter} alt="ícone de rodapé" ></StyledFooter.imgAnfora>
+                <StyledFooter.imgAnfora  src={theme.icones.anforaFooter} alt="ícone de rodapé Github" ></StyledFooter.imgAnfora>
                 
             </center>  
     </Styled.Footer>

@@ -42,7 +42,7 @@ function HeaderComponents() {
                 <Styled.PaddingLeftRightDefault  style={paddingTopStyle}>
                    <Styled.Left style={{paddingTop:'5px'}} > <HamburguerComponent/></Styled.Left>
                    <Styled.Right style={{position:'relative'}}>
-                      <img aria-label="ícone de logo " style={logo} tabIndex="9" alt="ícone de logo "  src={theme.icones.anforaHeader} />
+                      <img aria-label="Logo da Jay Jay " style={logo} tabIndex="9" alt="Logo da Jay Jay  "  src={theme.icones.anforaHeader} />
                    </Styled.Right>
                    <Styled.Clear/>
                 </Styled.PaddingLeftRightDefault>
