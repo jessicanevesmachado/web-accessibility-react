@@ -7,4 +7,5 @@ Acesse meu Post no Medium [https://medium.com/gbtech/12-dicas-para-deixar-sua-p%
 
 # Instalação
 yarn install
+
 yarn start
