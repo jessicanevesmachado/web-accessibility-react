@@ -1,7 +1,7 @@
 # Você pensa em acessibilidade quando está programando?
 
 Desenvolver um sistema ou um site pensando em acessibilidade pode parecer difícil e demorado. Porém, mesmo com diversas outras atividades para desenvolver no dia a dia, existe uma série de pequenas ações que farão uma grande diferença na vida das pessoas ❤
-Neste post irei compartilhar com vocês 12 dicas para deixar suas páginas mais acessíveis com base nos meus aprendizados.
+
 
 
 
